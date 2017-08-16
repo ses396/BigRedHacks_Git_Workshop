@@ -1,4 +1,4 @@
 def test():
-	x = 1
-	y = 2
-	print(x+y)
+	y = 1
+	z = 2
+	print(y+z)
