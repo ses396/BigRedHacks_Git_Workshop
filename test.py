@@ -1,4 +1,4 @@
 def test():
-	y = 1
-	z = 2
-	print(y+z)
+	w = 0
+	y = 5
+	print(w + y + 10)
