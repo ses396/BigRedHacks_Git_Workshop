@@ -1,5 +1,6 @@
 def test():
 	w = 0
-	y = 500000000
-	print(w + y + 10)
-	print('poo')
+	x = 1
+	y = 2
+	z = 3
+	print(x+y+z)
